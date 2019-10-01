@@ -68,8 +68,6 @@ For even more aesthetics, the [resistor color code](https://en.wikipedia.org/wik
 black can be used for ground.
 
 # Credit and License
-## IndustrialBerry
-The 4can was inspired by and is loosely based on the [IndustrialBerry QUAD CAN BUS adapter for Raspberry CanBerry](http://www.industrialberry.com/quad-can-bus-adapter-raspberry-canberry/CanBerry).  Although we modified the design to suit our needs, we must give credit to the fantastic work done by IndustrialBerry. The 4CAN, as well as the IndustrialBerry are licensed under a Creative Commons Attribution Share-Alike license.
-
-## George Tarnovsky
-Credit must also be given to George Tarnovsky, for schematic, layout, assembly, and verification!
+#Thanks for support 
+flow me at github
+https://github.com/alex14324
